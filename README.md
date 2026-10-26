@@ -1,6 +1,6 @@
 # CI/CD Testing Demo
 
-![CI/CD Pipeline](https://github.com/${{ github.repository }}/workflows/CI/CD%20Pipeline/badge.svg)
+![CI/CD Pipeline](https://github.com/git checkout -b add-feature/workflows/CI/CD%20Pipeline/badge.svg)
 
 Demonstration of automated testing and building with GitHub Actions.
 
